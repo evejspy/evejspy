@@ -25,9 +25,6 @@ const dev = {
 }
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evejspy&layout=compact&theme=tokyonight" />
-</div>
 
 
 <div align="center">
