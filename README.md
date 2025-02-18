@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1336779490319142963/1338925934237061223/Pixel_Owl_Gif.gif?ex=67acdb72&is=67ab89f2&hm=15a53a2fb94e6191ebfa46a5acba4bbb7338cfc95f4484b93e0cf204bf8f5271&" width="200"/>
+ <a href="https://gifyu.com/image/bS9TW"><img src="https://s3.gifyu.com/images/bS9TW.gif" alt="Pixel Owl Gif" border="0" /" width="200"/>
 </div>
 
 <div align="center">
